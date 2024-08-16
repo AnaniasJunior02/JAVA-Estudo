@@ -1,4 +1,4 @@
-package Estudo;
+package Estudo.SintaxeJava.Aula0HelloWorld;
 
 public class HelloWorld {
 	public static void main(String[]args) {
