@@ -1,1 +1,1 @@
-adicionando ao readme
+Repositório criado para estudar java
